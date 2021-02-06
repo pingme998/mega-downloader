@@ -1,1 +1,10 @@
-Raw Empty
+{
+  "name": "mega-downloader",
+  "description": "All in one megadl",
+  "repository": "https://github.com/pingme998/mega-downloader",
+  "keywords": ["mega", "express", "bot", "mega-downloader", "automation"],
+  "builpacks": [
+    { "url": "heroku/php" },
+    { "url": "https://github.com/heroku/heroku-buildpack-php.git" }
+  ]
+}
